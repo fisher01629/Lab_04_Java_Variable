@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5c957c9-1064-435a-a602-5f45ae6c1176" name="Changes" comment="Completed Part 1" />
+    <list default="true" id="e25b1ee7-0682-412f-9af1-eeabd913ace2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +12,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,35 +51,17 @@
       <option name="presentableId" value="Default" />
       <updated>1749069209860</updated>
     </task>
-    <task id="LOCAL-00001" summary="Completed Part 1">
-      <option name="closed" value="true" />
-      <created>1749070172204</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070172205</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Completed Part 1">
-      <option name="closed" value="true" />
-      <created>1749070192683</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070192683</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Completed Part 1">
-      <option name="closed" value="true" />
-      <created>1749070244176</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1749070244176</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Completed Part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Part 1" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
